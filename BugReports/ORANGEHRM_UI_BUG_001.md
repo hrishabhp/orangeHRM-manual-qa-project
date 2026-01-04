@@ -62,4 +62,10 @@ Screenshot attached highlighting the profile dropdown behavior.
 ## Remarks
 This issue affects user experience and expected UI interaction consistency.
 
+---
+
+### Reference
+GitHub Issue: https://github.com/orangehrm/orangehrm/issues/1923
+
+
 
