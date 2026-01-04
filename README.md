@@ -1,73 +1,77 @@
-# OrangeHRM – QA Validation & Defect Analysis Project
+# 🟠 OrangeHRM – QA Validation & Defect Analysis
 
-## Project Overview
-This repository demonstrates hands-on manual QA testing performed on the OrangeHRM open-source Human Resource Management (HRM) application.  
-The project focuses on test case design, UI/UX validation, defect identification, and professional bug reporting using GitHub.
+![Manual Testing](https://img.shields.io/badge/Testing-Manual-blue?style=for-the-badge&logo=robot-framework)
+![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-GitHub_Issues-red?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
----
-
-## Objective
-- Apply real-world QA testing practices on a production-like open-source application
-- Design structured test cases based on application behavior
-- Identify and report UI/UX defects with clear reproduction steps
-- Maintain QA documentation in a version-controlled environment
+## 🏆 Open Source Contribution
+**I identified and reported a valid UI/UX defect in the official OrangeHRM repository.**
+> **Issue #1923:** Profile dropdown does not toggle closed when clicking the profile icon again.
+* **Official Issue Link:** [Click here to view on orangehrm/orangehrm](https://github.com/orangehrm/orangehrm/issues/1923)
+* **Status:** Reported & Acknowledged
 
 ---
 
-## Application Under Test
-- **Application:** OrangeHRM (Open Source Demo)
-- **Version:** 5.8
-- **Type:** Web-based HR Management System
+## 📌 Project Overview
+This repository demonstrates hands-on manual QA testing performed on the **OrangeHRM Open Source** Human Resource Management application. The project focuses on real-world test case design, UI/UX validation, and professional defect reporting.
+
+### 🎯 Objectives
+* **Real-world Testing:** Apply QA methodologies on a production-like open-source environment.
+* **Defect Lifecycle:** Identify, isolate, and report bugs with industry-standard documentation.
+* **Documentation:** Create structured Test Cases and Traceability Matrices.
 
 ---
 
-## Scope of Testing
-- Functional Testing
-- UI/UX Validation
-- Negative Testing
-- Regression Testing
-- Exploratory Testing
+## 🛠️ Application Under Test
+* **Application:** OrangeHRM (Open Source Demo)
+* **Version:** 5.x
+* **Type:** Web-based HR Management System
+* **Modules Covered:**
+    * ✅ Login & Authentication
+    * ✅ User Profile / Header Navigation
+    * ✅ Admin Module (User Management)
 
 ---
 
-## Modules Covered
-- Login Module
-- User Profile / Header Navigation
+## 📂 Test Artifacts
+| Artifact | Description | Link |
+| :--- | :--- | :--- |
+| **Test Scenarios** | Structured test cases for Login & Profile modules | [View Test Cases](./TEST_CASES.md) |
+| **Bug Report** | Detailed breakdown of the UI/UX defect | [View Official Issue](https://github.com/orangehrm/orangehrm/issues/1923) |
+| **Test Plan** | Strategy and scope of testing | *Available upon request* |
 
 ---
 
-## Test Artifacts
-### 📄 Test Cases
-- Login module validation
-- User profile dropdown behavior validation
+## 🐞 Defect Highlight: Profile Dropdown Logic
+**Issue:** The user profile dropdown does not close when clicking the profile icon again.
+* **Impact:** The dropdown only closes when clicking *outside* the menu, resulting in inconsistent toggle behavior compared to standard web UI patterns.
+* **Severity:** Low (Usability/UX)
+* **Priority:** Medium
 
-### 🐞 Bug Reports
-- UI/UX defect where profile dropdown does not toggle closed on repeated clicks
-- Defect documented with:
-  - Clear reproduction steps
-  - Expected vs actual behavior
-  - Severity and priority
-  - Visual evidence (screenshots)
+### 📸 Defect Evidence
+*(Visual proof of the issue found during exploratory testing)*
+
+<img src="./screenshots/profile_dropdown_bug.png" alt="Profile Dropdown Bug Screenshot" width="600"/>
 
 ---
 
-## Defect Highlight
-- Identified a UI/UX issue where the user profile dropdown does not close when clicking the profile icon again.
-- The dropdown only closes when clicking outside the menu, resulting in inconsistent toggle behavior.
-- The issue impacts user experience and expected interaction consistency.
-- Defect reported using GitHub Issues following industry-standard bug reporting practices.
+## ⚙️ Tools & Technologies Used
+* **Methodology:** Exploratory Testing, Functional Regression
+* **Test Management:** GitHub Issues (for Bug Tracking)
+* **Browser Tools:** Chrome DevTools (for inspecting elements and responsiveness)
+* **Documentation:** Markdown & Excel
 
 ---
 
-## Tools & Technologies Used
-- Manual Testing Techniques
-- GitHub (Test case & defect management)
-- Web Browser (Google Chrome)
-- Screenshot & Evidence Capture
+## 💡 Key Learnings
+1.  **Exploratory Testing:** Learned how to move beyond "Happy Paths" to find edge case usability issues.
+2.  **Open Source Contribution:** Understood the process of searching existing issues and submitting a clean, new bug report to a large repository.
+3.  **Documentation:** Improved skills in writing concise reproduction steps.
 
 ---
 
-## Key Learnings
-- Writing clear and structured test cases
-- Performing UI/UX validation
-- Understanding defect l
+### 👤 Author
+**Hrishabh Chandra Pal**
+* **Role:** QA Engineer (Manual & Automation)
+* **LinkedIn:** [linkedin.com/in/hrishabh-chandra-p-2490a7391](https://www.linkedin.com/in/hrishabh-chandra-p-2490a7391)
+* **GitHub:** [github.com/hrishabhp](https://github.com/hrishabhp)
