@@ -2,10 +2,11 @@
 
 ![Manual Testing](https://img.shields.io/badge/Testing-Manual-blue?style=for-the-badge&logo=robot-framework)
 ![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-GitHub_Issues-red?style=for-the-badge&logo=github)
+![Status](https://img.shields.io/badge/Status-Project_Based-blue?style=for-the-badge)
 
 > **Issue #1923:** Profile dropdown does not toggle closed when clicking the profile icon again.
 * **Official Issue Link:** [Click here to view on orangehrm/orangehrm](https://github.com/orangehrm/orangehrm/issues/1923)
-* **Status:** Apply manual testing techniques on a production-like open-source environment
+* **Status:** Bug reported on GitHub (Issue #1923)
 
 ---
 
@@ -69,6 +70,6 @@ This repository demonstrates hands-on manual QA testing performed on the **Orang
 
 ### 👤 Author
 **Hrishabh Chandra Pal**
-* **Role:** QA Engineer (Manual & Automation)
+* **Role:** QA Trainee (Project-Based)
 * **LinkedIn:** [linkedin.com/in/hrishabhchandrapal](https://www.linkedin.com/in/hrishabhchandrapal)
 * **GitHub:** [github.com/hrishabhp](https://github.com/hrishabhp)
