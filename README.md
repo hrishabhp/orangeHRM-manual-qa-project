@@ -4,11 +4,9 @@
 ![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-GitHub_Issues-red?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-## 🏆 Open Source Contribution
-**I identified and reported a valid UI/UX defect in the official OrangeHRM repository.**
 > **Issue #1923:** Profile dropdown does not toggle closed when clicking the profile icon again.
 * **Official Issue Link:** [Click here to view on orangehrm/orangehrm](https://github.com/orangehrm/orangehrm/issues/1923)
-* **Status:** Reported & Acknowledged
+* **Status:** Apply manual testing techniques on a production-like open-source environment
 
 ---
 
@@ -64,14 +62,14 @@ This repository demonstrates hands-on manual QA testing performed on the **Orang
 ---
 
 ## 💡 Key Learnings
-1.  **Exploratory Testing:** Learned how to move beyond "Happy Paths" to find edge case usability issues.
-2.  **Open Source Contribution:** Understood the process of searching existing issues and submitting a clean, new bug report to a large repository.
-3.  **Documentation:** Improved skills in writing concise reproduction steps.
+1.  Gained experience in identifying UI/UX usability defects.
+2.  Learned open-source bug reporting workflow and issue submission standards.
+3.  Improved test documentation and reproduction step writing skills.
 
 ---
 
 ### 👤 Author
 **Hrishabh Chandra Pal**
 * **Role:** QA Engineer (Manual & Automation)
-* **LinkedIn:** [linkedin.com/in/hrishabh-chandra-p-2490a7391](https://www.linkedin.com/in/hrishabh-chandra-p-2490a7391)
+* **LinkedIn:** [linkedin.com/in/hrishabh-chandra-p-2490a7391](https://www.linkedin.com/in/hrishabhchandrapal)
 * **GitHub:** [github.com/hrishabhp](https://github.com/hrishabhp)
